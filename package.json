@@ -1,0 +1,9 @@
+{
+  "name": "kindlops-site",
+  "version": "1.0.0",
+  "description": "Kindl Ops - AI-Powered Strategic Intelligence",
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
